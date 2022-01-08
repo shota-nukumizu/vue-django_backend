@@ -4,6 +4,7 @@ import Home from '../views/Home.vue'
 import SignUp from '../views/SignUp.vue'
 import LogIn from '../views/LogIn.vue'
 import DashBoard from '../views/dashboard/DashBoard.vue'
+import MyAccount from '../views/dashboard/MyAccount.vue'
 
 const routes = [
   {
@@ -33,6 +34,11 @@ const routes = [
     path: '/dashboard',
     name: 'DashBoard',
     component: DashBoard
+  },
+  {
+    path: '/dashboard/my-account',
+    name: 'MyAccount',
+    component: MyAccount
   },
 ]
 
