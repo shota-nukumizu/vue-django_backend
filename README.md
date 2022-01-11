@@ -1,22 +1,23 @@
 # vue-site
 
-## Project setup
+## プロジェクトの立ち上げ
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 開発者サーバの実行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### デプロイ準備のためのコマンド
 ```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### ドキュメント詳細
+
+[Vuejs公式サイト]](https://cli.vuejs.org/config/).
 
 # Implement Process
 
