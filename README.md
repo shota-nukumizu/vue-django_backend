@@ -19,5 +19,51 @@ npm run build
 
 [Vuejs公式サイト](https://cli.vuejs.org/config/).
 
-# Implement Process
+# 開発過程
 
+# ディレクトリ
+
+```
+C:.
+│  .browserslistrc
+│  .gitignore
+│  babel.config.js
+│  package-lock.json
+│  package.json
+│  README.md
+│
+├─node_modules
+│
+├─public
+│      favicon.ico
+│      index.html
+│
+└─src
+    │  App.vue
+    │  main.js
+    │
+    ├─assets
+    │      logo.png
+    │
+    ├─components
+    │  │  HelloWorld.vue
+    │  │
+    │  └─layout
+    │          Navbar.vue
+    │
+    ├─router
+    │      index.js
+    │
+    ├─store
+    │      index.js
+    │
+    └─views
+        │  About.vue
+        │  Home.vue
+        │  LogIn.vue
+        │  SignUp.vue
+        │
+        └─dashboard
+                DashBoard.vue
+                MyAccount.vue
+```
