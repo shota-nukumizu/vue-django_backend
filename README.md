@@ -17,7 +17,7 @@ npm run build
 
 ### ドキュメント詳細
 
-[Vuejs公式サイト]](https://cli.vuejs.org/config/).
+[Vuejs公式サイト](https://cli.vuejs.org/config/).
 
 # Implement Process
 
